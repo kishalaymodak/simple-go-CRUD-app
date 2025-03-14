@@ -1,0 +1,6 @@
+.env
+crudapp.exe
+bin/
+# Ignore workspace files
+go.work
+go.work.sum
